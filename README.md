@@ -35,31 +35,14 @@
 
 Hi! I'm **Bongzi** — a **self-learning developer** who builds my own projects from ideas to working products. I'm passionate about turning problems into practical software and improving my skills every day.
 
-<table>
-  <tr>
-    <td valign="top" width="100%">
+### 💻 Core Languages
+`Lua` • `JavaScript` • `Go` • `Bun` • `Python` • `TypeScript`
 
-#### 💻 **Core Languages**
-- Lua • JavaScript • Go • Bun
-- Python • TypeScript
+### 🗄️ Storage & Backend
+`MySQL` • `MariaDB` • `Redis` • `REST API` • `Node.js` • `Next.js`
 
-    </tr>
-    <td valign="top" width="100%">
-
-#### 🗄️ **Storage & Backend**
-- MySQL • MariaDB • Redis
-- REST API • Node.js • Next.js
-
-    </tr>
-    <td valign="top" width="100%">
-
-#### ⚙️ **Tools**
-- Nginx • Docker • Linux
-- Git • VS Code • Vercel
-
-    </tr>
-  </tr>
-</table>
+### ⚙️ DevOps & Tools
+`Nginx` • `Docker` • `Linux` • `Git` • `VS Code` • `Vercel`
 
 ---
 
